@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Sinoptik.Pages", "Automation.Sinoptik.Pages\Automation.Sinoptik.Pages.csproj", "{34003346-97B5-482C-ABCC-EAAF54C695DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.SinoptikBg.Tests", "Automation.SinoptikBg.Tests\Automation.SinoptikBg.Tests.csproj", "{376256B4-526A-4E34-850F-67E1A808F078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34003346-97B5-482C-ABCC-EAAF54C695DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34003346-97B5-482C-ABCC-EAAF54C695DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34003346-97B5-482C-ABCC-EAAF54C695DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34003346-97B5-482C-ABCC-EAAF54C695DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376256B4-526A-4E34-850F-67E1A808F078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376256B4-526A-4E34-850F-67E1A808F078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376256B4-526A-4E34-850F-67E1A808F078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376256B4-526A-4E34-850F-67E1A808F078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB366D5A-B821-43D2-8253-FC300CC1D344}
+	EndGlobalSection
+EndGlobal
